@@ -1,6 +1,7 @@
 *.py~
 *.go~
 node_modules/
+python
 userdata/workspace*
 debug
 manager.exe

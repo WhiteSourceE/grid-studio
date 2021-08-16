@@ -1,5 +1,4 @@
-*.py~
-*.go~
+
 node_modules/
 python
 userdata/workspace*
@@ -20,4 +19,11 @@ logs
 sessionmanager
 userdata
 websockerproxy
+
+
 *.go
+*.py
+*.java
+*.db
+*.sh
+*.svg

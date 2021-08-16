@@ -14,6 +14,7 @@ manager
 .cache/
 __pycache__/
 .scannerwork
+.github
 db
 logs
 sessionmanager
@@ -27,3 +28,4 @@ websockerproxy
 *.db
 *.sh
 *.svg
+*.keep
